@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T19:07:39.744Z",
+  "generated_at": "2026-10-15T19:08:12.753Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -89,6 +89,19 @@
       "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
       "first_solved_at": "2026-10-15T19:07:38.808Z",
       "last_pushed_at": "2026-10-15T19:07:38.808Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2026-10-15T19:08:11.904Z",
+      "last_pushed_at": "2026-10-15T19:08:11.904Z",
       "language": "python",
       "lines": 19
     }
