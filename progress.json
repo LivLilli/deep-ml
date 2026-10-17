@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T19:20:07.659Z",
+  "generated_at": "2026-10-17T08:49:09.253Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -156,6 +156,19 @@
       "last_pushed_at": "2026-10-15T19:20:07.048Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:647": {
+      "kind": "problem",
+      "id": "647",
+      "title": "Hamming Distance for Kanerva Coding",
+      "difficulty": "easy",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/647",
+      "path": "problems/0647-hamming-distance-for-kanerva-coding",
+      "first_solved_at": "2026-10-17T08:49:08.607Z",
+      "last_pushed_at": "2026-10-17T08:49:08.607Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }
