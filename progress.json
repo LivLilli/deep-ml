@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T17:33:39.831Z",
+  "generated_at": "2026-10-24T18:31:17.005Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -481,6 +481,19 @@
       "last_pushed_at": "2026-10-24T17:33:38.114Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:914": {
+      "kind": "problem",
+      "id": "914",
+      "title": "Numerically Stable Cross-Entropy",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/914",
+      "path": "problems/0914-numerically-stable-cross-entropy",
+      "first_solved_at": "2026-10-24T18:31:16.322Z",
+      "last_pushed_at": "2026-10-24T18:31:16.322Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
