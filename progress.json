@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T08:54:41.203Z",
+  "generated_at": "2026-10-24T09:16:23.734Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -375,6 +375,19 @@
       "path": "problems/0887-build-an-mlp-with-nn-sequential",
       "first_solved_at": "2026-10-24T08:54:40.503Z",
       "last_pushed_at": "2026-10-24T08:54:40.503Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:888": {
+      "kind": "problem",
+      "id": "888",
+      "title": "Save and Load Model Weights with state_dict",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/888",
+      "path": "problems/0888-save-and-load-model-weights-with-state-dict",
+      "first_solved_at": "2026-10-24T09:16:23.233Z",
+      "last_pushed_at": "2026-10-24T09:16:23.233Z",
       "language": "python",
       "lines": 11
     }
