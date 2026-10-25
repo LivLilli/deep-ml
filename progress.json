@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T16:36:56.616Z",
+  "generated_at": "2026-10-25T17:10:31.642Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -520,6 +520,19 @@
       "last_pushed_at": "2026-10-25T16:36:55.977Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:1132": {
+      "kind": "problem",
+      "id": "1132",
+      "title": "Reshape Data with pivot_table and melt",
+      "difficulty": "medium",
+      "category": "Pandas",
+      "url": "https://www.deep-ml.com/problems/1132",
+      "path": "problems/1132-reshape-data-with-pivot-table-and-melt",
+      "first_solved_at": "2026-10-25T17:10:31.019Z",
+      "last_pushed_at": "2026-10-25T17:10:31.019Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
