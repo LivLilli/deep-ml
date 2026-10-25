@@ -2,7 +2,9 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**43** solved · 43 problems · 0 labs · 0 math
+**Completed:** Pandas (8/8)
+
+**44** solved · 44 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -52,6 +54,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Numerically Stable Softmax](https://www.deep-ml.com/problems/1227) | medium | 2026-10-24 | [solution](problems/1227-numerically-stable-softmax) |
 | [One Training Step](https://www.deep-ml.com/problems/1219) | medium | 2026-10-24 | [solution](problems/1219-one-training-step) |
 | [Reshape Data with pivot_table and melt](https://www.deep-ml.com/problems/1132) | medium | 2026-10-25 | [solution](problems/1132-reshape-data-with-pivot-table-and-melt) |
+| [Rolling Average over a Daily Series with Missing Dates](https://www.deep-ml.com/problems/1552) | medium | 2026-10-25 | [solution](problems/1552-rolling-average-over-a-daily-series-with-missing-dates) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-10-15 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Solve System of Linear Equations Using Cramer's Rule](https://www.deep-ml.com/problems/119) | medium | 2026-10-15 | [solution](problems/0119-solve-system-of-linear-equations-using-cramer-s-rule) |
 | [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-10-24 | [solution](problems/1225-two-layer-mlp-forward-pass) |
